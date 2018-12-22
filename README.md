@@ -1,3 +1,3 @@
 # LeetCode-Practice
-My solutions of LeetCode
+My solutions of LeetCode.<br>
 Record my solutions.
